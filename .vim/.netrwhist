@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/backup/itinfra/mongo/demon'
+let g:netrw_dirhist_2='/lustre2/INHouse/Tool/disetup/pub'
+let g:netrw_dirhist_3='/lustre/logs/tractor/spool9933/jobs/2017-06/19/d10417/1706190144'
